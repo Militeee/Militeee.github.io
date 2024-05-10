@@ -1,10 +1,12 @@
 ---
 layout: page
 title: Cancer Evolution Under Therapy
-description: Understading cancer therapy resistance with lentiviral barcoding and PDOs
+description: Understading cancer therapy resistance in Patient Derived Organoids with lentiviral barcoding
 img: /assets/img/pdos.jpeg
 importance: 2
 category: work
+redirect: https://www.biorxiv.org/content/10.1101/2023.11.15.567140v1.full
+
 ---
 
 
