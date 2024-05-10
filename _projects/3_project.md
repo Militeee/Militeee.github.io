@@ -2,7 +2,7 @@
 layout: page
 title: Generating Useful Hierarchical Representations 
 description: Theory and application of hierachical VAEs and AA
-img: assets/img/hie_vaes.jpeg
+img: /assets/img/hie_vaes.jpg
 importance: 3
 category: work
 ---
@@ -17,7 +17,7 @@ My goal in this project is to study better the theoretical foundations of those 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/hie_vaes.jpeg" title="hierarchical vaes" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="/assets/img/hie_vaes.jpg" title="hierarchical vaes" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 

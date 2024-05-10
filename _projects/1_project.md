@@ -2,7 +2,7 @@
 layout: page
 title: Multi-Omics Deep Archetypal Analysis
 description: 
-img: assets/img/deepaa.jpeg
+img: /assets/img/deepaa.jpg
 importance: 1
 category: work
 ---
@@ -13,6 +13,6 @@ High-throughput multi-omic molecular profiling allows probing biological systems
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/deepaa.jpeg" title="Multi-Omics Deep Archetypal Analysis" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="/assets/img/deepaa.jpg" title="Multi-Omics Deep Archetypal Analysis" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>

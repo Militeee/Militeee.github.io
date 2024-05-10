@@ -2,7 +2,7 @@
 layout: page
 title: Cancer Evolution Under Therapy
 description: Understading cancer therapy resistance with lentiviral barcoding and PDOs
-img: assets/img/pdos.jpeg
+img: /assets/img/pdos.jpeg
 importance: 2
 category: work
 ---
