@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /repositories/
-title: rGitHub Stats and Repositories
+title: software
 description: Some of the software I have developed over the years
 nav: true
 nav_order: 4
