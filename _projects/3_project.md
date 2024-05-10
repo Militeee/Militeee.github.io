@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Generating Useful Hierarchical Representations 
-description: a project that redirects to another website
-img: assets/img/hie_vaes.jpg
+description: Theory and application of hierachical VAEs and AA
+img: assets/img/hie_vaes.jpeg
 importance: 3
 category: work
 ---

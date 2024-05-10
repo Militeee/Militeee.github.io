@@ -1,12 +1,13 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+title: Teaching Duties
 nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+During my PhD I have teaches some classes of the [Computational Biology](https://dssc.units.it/computational-biology) course at the University of Trieste, targeted for Master's students in [Data Science and Artificial Intelligence](https://dsai.units.it/).
 
-Organize your courses by years, topics, or universities, however you like!
+In 2021 I taught a module on **Count-based models for single-cell data**, resources for it and for the whole course can be found [here](https://github.com/caravagn/GDA).
+
+In 2023 I gave a lecture on **Mathematical Models for Subclonal Deconvolution**. The practcal can be found [here](https://github.com/Militeee/computational_biology_practical)
