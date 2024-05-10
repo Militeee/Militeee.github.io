@@ -1,23 +1,19 @@
 ---
 layout: page
 title: Multi-Omics Deep Archetypal Analysis
-description: with background image
-img: assets/img/12.jpg
+description: 
+img: assets/img/deepaa.jpg
 importance: 1
 category: work
 related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+High-throughput multi-omic molecular profiling allows probing biological systems at unprecedented resolution. However, the integration and interpretation of high-dimensional, sparse, and noisy multimodal datasets remains challenging. Deriving new biology using current methods is particularly difficult because they are not based on biological principles, but instead focus exclusively on a dimensionality reduction task. We have developed introduce [MIDAA](https://github.com/sottorivalab/midaa) (Multiomic Integration with Deep Archetypal Analysis), a framework that combines archetypal analysis, an approach grounded in biological principles, with deep learning. Using the concept of archetypes that are based on evolutionary trade-offs and Pareto optimality – MIDAA finds extreme data points that define the geometry of the latent space, preserving the complexity of biological interactions while retaining an interpretable output.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/deepaa.jpeg" title="Multi-Omics Deep Archetypal Analysis" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
